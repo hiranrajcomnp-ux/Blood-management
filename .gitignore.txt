@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.layout
+
+donors.dat
+receivers.dat
+stock.dat
+users.dat
+
+backup/
